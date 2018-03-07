@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\Position.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="127" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Matrix.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="233" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="include\Generation.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="129" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Features.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1139" topLine="34" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="42" />
+			<Collapse line="60" />
+			<Collapse line="94" />
+			<Collapse line="102" />
+			<Collapse line="110" />
+			<Collapse line="130" />
+		</Folding>
+	</File>
+	<File name="src\Generation.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6430" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="18" />
+			<Collapse line="23" />
+			<Collapse line="39" />
+			<Collapse line="54" />
+			<Collapse line="67" />
+			<Collapse line="88" />
+		</Folding>
+	</File>
+	<File name="include\Position.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="117" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Thinker.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="272" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Board.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2491" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="24" />
+			<Collapse line="33" />
+			<Collapse line="54" />
+		</Folding>
+	</File>
+	<File name="src\Thinker.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6396" topLine="236" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="47" />
+			<Collapse line="84" />
+			<Collapse line="269" />
+		</Folding>
+	</File>
+	<File name="src\Persistence.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="146" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="8" />
+			<Collapse line="13" />
+			<Collapse line="56" />
+			<Collapse line="101" />
+			<Collapse line="122" />
+			<Collapse line="143" />
+			<Collapse line="150" />
+		</Folding>
+	</File>
+	<File name="include\Persistence.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="513" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="include\Board.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="575" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="include\Features.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="349" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="20" />
+			<Collapse line="32" />
+			<Collapse line="60" />
+			<Collapse line="95" />
+			<Collapse line="124" />
+		</Folding>
+	</File>
+	<File name="src\Matrix.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="700" topLine="19" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1465064044 source:e:\othello\main.cpp
+	<iostream>
+	"Board.h"
+
+1465071441 e:\othello\include\board.h
+	"Position.h"
+	"Matrix.h"
+	<list>
+	"Features.h"
+
+1465058322 e:\othello\include\position.h
+
+1465059889 e:\othello\include\matrix.h
+
+1465072589 e:\othello\include\features.h
+	"Board.h"
+
+1465072589 source:e:\othello\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1465064019 source:e:\othello\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1465058322 source:e:\othello\src\position.cpp
+	"Position.h"
+
+1465069126 source:e:\othello\src\features.cpp
+	"Features.h"
+	<iostream>
+
+1466995433 source:f:\othello\main.cpp
+	<iostream>
+	"time.h"
+	"Board.h"
+	"Thinker.h"
+	"Generation.h"
+	"Persistence.h"
+
+1466811371 f:\othello\include\board.h
+	<list>
+	"Position.h"
+	"Matrix.h"
+	"Features.h"
+
+1465873245 f:\othello\include\position.h
+
+1466810436 f:\othello\include\matrix.h
+	<iostream>
+
+1466811255 f:\othello\include\features.h
+	"Board.h"
+
+1466811255 source:f:\othello\src\features.cpp
+	"Features.h"
+	<iostream>
+
+1466810436 source:f:\othello\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1466812302 source:f:\othello\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1465873233 source:f:\othello\src\position.cpp
+	"Position.h"
+
+1466380230 f:\othello\include\thinker.h
+	"Board.h"
+	"Features.h"
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1466993692 source:f:\othello\src\thinker.cpp
+	"Thinker.h"
+
+1466994816 source:f:\othello\src\generation.cpp
+	"Generation.h"
+
+1466994960 f:\othello\include\generation.h
+	<iostream>
+	"Thinker.h"
+	"Board.h"
+
+1465874990 source:f:\othello\src\log.cpp
+	"Log.h"
+
+1465875155 f:\othello\include\log.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1466386962 source:f:\othello\src\persistence.cpp
+	"Persistence.h"
+
+1466386814 f:\othello\include\persistence.h
+	"iostream"
+	"fstream"
+	"stdexcept"
+	"Generation.h"
+	"Thinker.h"
+	"Board.h"
+
+1467152707 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1467142602 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\board.h
+	<list>
+	"Position.h"
+	"Matrix.h"
+	"Features.h"
+
+1465873245 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\position.h
+
+1466810436 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\matrix.h
+	<iostream>
+
+1467169807 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\features.h
+	"Board.h"
+
+1467175162 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\features.cpp
+	"Features.h"
+	<iostream>
+
+1465874990 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\log.cpp
+	"Log.h"
+
+1465875155 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\log.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1466810436 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1467170441 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\persistence.cpp
+	"Persistence.h"
+
+1467164960 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\persistence.h
+	"iostream"
+	"fstream"
+	"stdexcept"
+	"Generation.h"
+	"Thinker.h"
+	"Board.h"
+
+1467182039 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\generation.h
+	<iostream>
+	"Thinker.h"
+	"Board.h"
+
+1467180278 c:\users\aykroyd\onedrive\private folder\ptc\othello\include\thinker.h
+	"Board.h"
+	"Features.h"
+	<iostream>
+	<sstream>
+	<algorithm>
+	<tgmath.h>
+
+1465873233 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\position.cpp
+	"Position.h"
+
+1467164971 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\main.cpp
+	<iostream>
+	"time.h"
+	"Board.h"
+	"Thinker.h"
+	"Generation.h"
+	"Persistence.h"
+
+1467179610 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\generation.cpp
+	"Generation.h"
+
+1467180931 source:c:\users\aykroyd\onedrive\private folder\ptc\othello\src\thinker.cpp
+	"Thinker.h"
+
