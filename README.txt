@@ -3,7 +3,7 @@ Automatic Subtitles for Theatre Plays:
 #SUMMARY#
 
 This project was done for an elective "Machine Learning and Soft Computing" introductory course taken 
-during my 3rd term.
+during my 3rd term (2016).
 The project consisted on creating a system for playing the Othello board-game (a simplified version of
 Go). In all previous studies analysed, the machine-player had been trained upon either large databases
 of games or with the aid of already consolidated world-class game-playing machines.
