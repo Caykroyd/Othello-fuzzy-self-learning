@@ -7,9 +7,8 @@ during my 3rd term (2016).
 The project consisted on creating a system for playing the Othello board-game (a simplified version of
 Go). In all previous studies analysed, the machine-player had been trained upon either large databases
 of games or with the aid of already consolidated world-class game-playing machines.
-The novelty of my approach, however, was in the use Genetic Algorithms to train a population of 
-machine-players by playing against each other. This meant that there was NO external data, human or 
-machine input. The training was totally unsupervised.
+The novelty of the approach was in the use genetic algorithms to train a population of 
+machine-players against each other in an unsupervised environment.
 
 The chief concepts behind the algorithms were the Minimax Search algorithm, a Heuristic-Fuzzy
 Evaluation function coupled with preprocessing of the othello board parameters, as well as the
